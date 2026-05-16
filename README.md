@@ -612,7 +612,7 @@ Possible future enhancements:
 # Authors
 
 * Salman Shoaib
-* Team Members
+* Moeed Amir
 
 ---
 
